@@ -2,3 +2,4 @@
 
 ## Padrões de Criação
 - Singleton
+- Factory Method

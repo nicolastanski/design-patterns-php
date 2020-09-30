@@ -40,6 +40,4 @@ class LogsSingleton {
 
         fclose($arquivo);
     }
-
- 
 }
