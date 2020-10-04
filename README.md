@@ -9,3 +9,4 @@
 ## Padrões Estruturais
 - Adapter
 - Facade
+- Decorator
