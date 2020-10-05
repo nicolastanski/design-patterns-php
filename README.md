@@ -10,3 +10,6 @@
 - Adapter
 - Facade
 - Decorator
+
+# Padrões Comportamentais
+- Memento
