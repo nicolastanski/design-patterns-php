@@ -14,3 +14,4 @@
 # Padrões Comportamentais
 - Memento
 - Observer
+- TemplateMethod
