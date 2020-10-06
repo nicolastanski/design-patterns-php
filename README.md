@@ -13,3 +13,4 @@
 
 # Padrões Comportamentais
 - Memento
+- Observer
