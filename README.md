@@ -15,3 +15,4 @@
 - Memento
 - Observer
 - TemplateMethod
+- Strategy
